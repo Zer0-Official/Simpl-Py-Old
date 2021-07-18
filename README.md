@@ -1,10 +1,10 @@
 # Simpl-Py
 Simpl-Py is a Python 3 coded language made to create a simpler version of Python in an organized and professional format. It may be considered as an independent language.
 
-# Download
+## Download
 Click the 'Download Code' button and click 'Download ZIP'. Un-zip the file and enjoy.
 
-# Included:
+## Included:
 * Simpl-Py file
 * Library Reference
 * Simpl-Py python file
